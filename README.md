@@ -7,6 +7,6 @@
 
 ![Диаграмма связей (интерфейс)](https://raw.githubusercontent.com/Mrfartam/Testing/lab1/Диаграмма%20связей%20(интерфейс).png)
 <h4>Диаграмма связей (интерфейс)</h4>
-</br>
+
 ![Диаграмма связей (логика)](https://raw.githubusercontent.com/Mrfartam/Testing/lab1/Диаграмма%20связей%20(логика).png)
 <h4>Диаграмма связей (логика)</h4>
